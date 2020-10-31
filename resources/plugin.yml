@@ -1,0 +1,11 @@
+name: AshManPro
+main: net.noyark.dreamservergroup.AshManPro
+version: 1.0.4
+api: ["1.0.0","1.0.6"]
+load: POSTWORLD
+author: zzz1999
+
+permissions:
+  AshManPro.command.eliminate:
+    default: op
+    description: "permission of the AshManPro command"
